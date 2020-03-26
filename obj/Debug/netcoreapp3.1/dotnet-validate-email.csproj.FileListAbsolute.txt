@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-validate-email\bin\Debug\netcoreapp3.1\dotnet-validate-email.exe
+D:\CodeGym\Practice\dotnet-validate-email\bin\Debug\netcoreapp3.1\dotnet-validate-email.deps.json
+D:\CodeGym\Practice\dotnet-validate-email\bin\Debug\netcoreapp3.1\dotnet-validate-email.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-validate-email\bin\Debug\netcoreapp3.1\dotnet-validate-email.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-validate-email\bin\Debug\netcoreapp3.1\dotnet-validate-email.dll
+D:\CodeGym\Practice\dotnet-validate-email\bin\Debug\netcoreapp3.1\dotnet-validate-email.pdb
+D:\CodeGym\Practice\dotnet-validate-email\obj\Debug\netcoreapp3.1\dotnet-validate-email.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-validate-email\obj\Debug\netcoreapp3.1\dotnet-validate-email.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-validate-email\obj\Debug\netcoreapp3.1\dotnet-validate-email.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-validate-email\obj\Debug\netcoreapp3.1\dotnet-validate-email.dll
+D:\CodeGym\Practice\dotnet-validate-email\obj\Debug\netcoreapp3.1\dotnet-validate-email.pdb
